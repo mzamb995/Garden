@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/review-toolbox/digital-guide-to-reviews/","tags":["gardenEntry"]}
 ---
 
-#Busqueda ##Digital Guide##
+#Busqueda 
+
+# Digital Guide to Reviews
 
 Welcome to my digital guide to reviews
 
