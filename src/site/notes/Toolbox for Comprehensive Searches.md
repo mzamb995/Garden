@@ -4,7 +4,7 @@
 
 #Busqueda #INCAN 
 
-Tools to Get Better Search Terms: 
+**Tools to Get Better Search Terms:** 
 
 [MeSH Re: Miner](https://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi) This Resource will look through your PubMed Query and identify the frequency with which certain terms appear, allowing you to carry out an iterative process and be able to bolster your search and identify both controlled and non-controlled terms that could aid your search. 
 
@@ -19,7 +19,7 @@ Tools to Get Better Search Terms:
 
 Additional AI models, such as [Gemini](https://deepmind.google/technologies/gemini/#capabilities), [ChatGPT](https://chat.openai.com/?sso=)) can also be used by giving them an abstract and asking the model to suggest relevant terms to expand your search.
 
-Tools to find additional papers or to search for other "pearl" papers: 
+**Tools to find additional papers or to search for other "pearl" papers:** 
 
 [Litmaps](https://www.litmaps.com/): This is one of my favorite tools as it is simple to use, it just requires one article that you think fits in your search, it will graph out who has cited that paper and what papers it cited and give the most relevant papers which can sometimes reveal new "Pearl" papers that will give you more interesting and related papers. 
 
