@@ -13,4 +13,4 @@ Here I will post everything that I know and learn about all types of reviews
 Feel free to browse and give me feedback on all aspects of realizing reviews
 
 - Guide to Comprehensive Searches
-- [[Home/Guides/Toolbox for Comprehensive Searches\|Toolbox for Comprehensive Searches]]
+- [[ALL.CAN/Toolbox for Comprehensive Searches\|ALL.CAN/Toolbox for Comprehensive Searches]]
