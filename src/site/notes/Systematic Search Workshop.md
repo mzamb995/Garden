@@ -8,12 +8,13 @@ To carry out a systematic search in a comprehensive fashion we can think about t
 
 1. [[Search Modes\|Search Modes]]
 2. [[Search Terms\|Search Terms]]
-3. [[Search operators\|Search operators]]
+3. [[Search Operators\|Search Operators]]
 4. [[Field Searches\|Field Searches]]
-5. Special Operators 
-6. Search filters
+5. [[Special Operators\|Special Operators]] 
+6. [[Search Filters\|Search Filters]]
 
 #  Understanding Your Ideas
+
 1. First, establish if you already have a pre-existing research question or you are trying to generate a specific question from a broad question (i.e. For patients with a history of heart attacks, is aspirin more effective than other antiplatelet aggregators in preventing further heart attacks?)
 2. Once you have arrived at your research question it can help to break it down into concepts, typically you want 2 or 3 (not many more) distinct essential concepts.
 	1. Problem (Heart Attacks)
