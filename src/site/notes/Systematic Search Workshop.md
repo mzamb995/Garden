@@ -4,7 +4,10 @@
 
 #Busqueda #INCAN
 
+[[Digital Guide to Reviews\|Digital Guide to Reviews]]
+
 To carry out a systematic search in a comprehensive fashion we can think about the following blocks.
+
 
 1. [[Search Modes\|Search Modes]]
 2. [[Search Terms\|Search Terms]]
@@ -210,3 +213,6 @@ It is usually recommended that you first run the strategy without any filters, i
 		2. If it is too narrow we need to find synonyms that are broader, remove words, remove filters.  
 	4. If you already have a benchmark study that is relevant to your question, you should be able to find it with the search strategy, if not, then it should be modified until you are able to do so. 
 	5. As with anything, peer reviewing the search strategy and revision of it is key to a healthy systematic review. 
+
+
+[[Digital Guide to Reviews\|Back To Home]]
