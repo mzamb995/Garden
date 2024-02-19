@@ -18,7 +18,7 @@ These are the most essential building blocks that will connect our words and key
 4. Double quotation marks"" (finds terms in same order and no other words between)
 	1. Use to search for a precise search (This one works on most search engines, including Google!)
 5. Truncation (different endings of a word stem) 
-	1. This can vary between databases and sometimes 
+	1. This can vary between databases and can be used to find multiple endings of words or alternate spellings
 
 ### Examples
 1. OR
@@ -31,3 +31,13 @@ These are the most essential building blocks that will connect our words and key
 	* (heart attack OR myocardial isquemia) AND (aspirin OR ASA)
 4. ""
 * "Stem cell transplantation"
+5. Truncation operator *
+* Health* 
+	* Health
+	* Health**care**
+	* Health**ful**
+	* Health**ier**
+	* Health**iest**
+	* health**y**
+
+[[Systematic Search Workshop\|Systematic Search Workshop]]}
