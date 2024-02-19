@@ -29,4 +29,10 @@ This is an example of a filter that works on PubMed that has been validated and 
 10. animals [mh] NOT humans [mh]
 11. #9 NOT #10
 
+These types of filters cannot be generated on the spot, they need to be sourced from a specific publication or area.
+
+Fortunately, there are some resources that already include a repository such as 
+- [ISSG Search Filter Resource](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser=0)
+- [McMaster Hedges Project](https://hiruweb.mcmaster.ca/hkr/hedges/)
+
 [[Systematic Search Workshop\|Systematic Search Workshop]]
