@@ -13,6 +13,21 @@ To carry out a systematic search in a comprehensive fashion we can think about t
 5. [[Special Operators\|Special Operators]] 
 6. [[Search Filters\|Search Filters]]
 
+These are our main tools that we can utilize to craft our systematic search strategy
+
+The overall structure and checklist that we can utilize to do this is as follows: 
+
+1. Concentrate on essential concepts
+2. Compile [[Search Terms\|search terms]]
+3. Divide the search
+4. Capture different word forms
+5. Connect similar terms
+6. Define logical sets
+7. Indicate phrases 
+8. Indicate field searches
+9. Bundle results and find the overlap
+	1. Add a search filter (optional)
+10. Review search results and revise strategy
 #  Understanding Your Ideas
 
 1. First, establish if you already have a pre-existing research question or you are trying to generate a specific question from a broad question (i.e. For patients with a history of heart attacks, is aspirin more effective than other antiplatelet aggregators in preventing further heart attacks?)
@@ -28,5 +43,5 @@ To carry out a systematic search in a comprehensive fashion we can think about t
 | -------------------- | ------------ | --------------------- |
 | ==Problem==:Heart attack | `Heart attack`<br>`Heart attacks`<br>`myocardial infarct`<br>`myocardial infarcts`<br>`myocardial infarction`<br>`myocardial infarctions`<br>`MI`<br>`AMI`<br>`heart infarct`<br>`heart infarcts`<br>`heart infarction`<br>`heart infarctions`<br> | `myocardial infarction`                      |
 | ==Intervention==: Aspirin                     | `aspirin`<br>`acetylsalicylic acid`<br>`acetyl salicylic acid`<br>`ASA`             | `aspirin`                      |
-4. After we have our basic concepts and associated terms we need to develop a search structure using boolean operators. 
+4. After we have our basic concepts and associated terms we need to develop a search structure using [[Search Operators\|boolean operators]]. 
 	1. Continous search statement ""
