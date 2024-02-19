@@ -14,4 +14,3 @@ Feel free to browse and give me feedback on all aspects of realizing reviews
 
 - [[Systematic Search Workshop\|Guide]] to Comprehensive Searches
 - [[ALL.CAN/Home/Guides/Toolbox for Comprehensive Searches\|Toolbox for Comprehensive Searches]]
-- 
