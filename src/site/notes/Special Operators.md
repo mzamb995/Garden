@@ -15,11 +15,11 @@ These are operators that may work in some databases but not all of them.  These 
 
 1. colo$r = color, colour
 
-This one is especially useful when attemtping to account for alternate spellings between english dialects.
+This one is especially useful when attempting to account for alternate spellings between english dialects.
 
 ## Proximity Search
 
-Finds one word ocurring within a specific distance of another word
+Finds one word occurring within a specific distance of another word
 1. health NEAR/3 heart (will find results with the word health within 3 words of the word heart)
 2. patient NEXT/3 education (will find results that have the word education AFTER the word patient within 3 words)
 
