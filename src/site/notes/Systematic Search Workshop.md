@@ -7,9 +7,9 @@
 To carry out a systematic search in a comprehensive fashion we can think about the following blocks.
 
 1. [[Search Modes\|Search Modes]]
-2. Search Terms
-3. Search Operators
-4. Field Searches
+2. [[Search Terms\|Search Terms]]
+3. [[Search operators\|Search operators]]
+4. [[Field Searches\|Field Searches]]
 5. Special Operators 
 6. Search filters
 
