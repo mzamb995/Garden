@@ -46,6 +46,7 @@ The overall structure and checklist that we can utilize to do this is as follows
 | -------------------- | ------------ | --------------------- |
 | ==Problem==:Heart attack | `Heart attack`<br>`Heart attacks`<br>`myocardial infarct`<br>`myocardial infarcts`<br>`myocardial infarction`<br>`myocardial infarctions`<br>`MI`<br>`AMI`<br>`heart infarct`<br>`heart infarcts`<br>`heart infarction`<br>`heart infarctions`<br> | `myocardial infarction`                      |
 | ==Intervention==: Aspirin                     | `aspirin`<br>`acetylsalicylic acid`<br>`acetyl salicylic acid`<br>`ASA`             | `aspirin`                      |
+
 4. After we have our basic concepts and associated terms we need to develop a search structure using [[Search Operators\|boolean operators]]. 
 	1. Continuous search statement
 		1. (heart attack OR MI) AND (aspirin OR ASA)
@@ -80,7 +81,7 @@ So far so good, we now have our template.
 5. Now we can carry out a truncation search to see if we have missed anything or can simply our terms in our example search.
 	1. we search: myocardial infarct* (in PubMed)
 		1. myocardial infarct
-		2. myocardial infact**s**
+		2. myocardial infarct**s**
 		3. myocardial infarct**ion**
 		4. myocardial infarct**ions**
 		We have some terms in our original search strategy that be replaced with truncation, this is also benefical because it may include terms that we haven't 
