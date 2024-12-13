@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-guide-to-reviews/","tags":["gardenEntry"]}
 ---
 
-#Busqueda 
+#Busqueda #REDCap
 
 # Digital Guide to Reviews & Assorted Tools
 
