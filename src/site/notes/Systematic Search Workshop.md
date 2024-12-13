@@ -66,15 +66,15 @@ We can design a template strategy to help us carry this out in a systematic fash
 
 In table format 
 
-| #   | Terms                                                                                                                                                                                                                                          | Step                     |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| 1   | `Heart attack`<br>`Heart attacks`<br>`myocardial infarct`<br>`myocardial infarcts`<br>`myocardial infarction`<br>`myocardial infarctions`<br>`MI`<br>`AMI`<br>`heart infarct`<br>`heart infarcts`<br>`heart infarction`<br>`heart infarctions` | Problem text word search |
-| 2   | myocardial infarction                                                                                                                                                                                                                          | Problem controlled vocabulary search                         |
-| 3   | `aspirin`<br>`acetylsalicylic acid`<br>`acetyl salicylic acid`<br>`ASA`                                                                                                                                                                                                                                               | Intervention text word search                         |
-| 4   | aspirin                                                                                                                                                                                                                                               | Intervention controlled vocabulary search                         |
-| 5   |                                                                                                                                                                                                                                                | Bundle problem search results                         |
-| 6   |                                                                                                                                                                                                                                                | Bundle Intervention search results                         |
-| 7   |                                                                                                                                                                                                                                                | Find overlap between Problem and Intervention                         |
+| #   | Terms                                                                                                                                                                                                                                          | Step                                          |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 1   | `Heart attack`<br>`Heart attacks`<br>`myocardial infarct`<br>`myocardial infarcts`<br>`myocardial infarction`<br>`myocardial infarctions`<br>`MI`<br>`AMI`<br>`heart infarct`<br>`heart infarcts`<br>`heart infarction`<br>`heart infarctions` | Problem text word search                      |
+| 2   | myocardial infarction                                                                                                                                                                                                                          | Problem controlled vocabulary search          |
+| 3   | `aspirin`<br>`acetylsalicylic acid`<br>`acetyl salicylic acid`<br>`ASA`                                                                                                                                                                        | Intervention text word search                 |
+| 4   | aspirin                                                                                                                                                                                                                                        | Intervention controlled vocabulary search     |
+| 5   |                                                                                                                                                                                                                                                | Bundle problem search results                 |
+| 6   |                                                                                                                                                                                                                                                | Bundle Intervention search results            |
+| 7   |                                                                                                                                                                                                                                                | Find overlap between Problem and Intervention |
 
 
 So far so good, we now have our template.
@@ -86,15 +86,15 @@ So far so good, we now have our template.
 		4. myocardial infarct**ions**
 		We have some terms in our original search strategy that be replaced with truncation, this is also benefical because it may include terms that we haven't 
 
-| #   | Terms                                                                                                                                                                                                                                          | Step                     |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| 1   | ==`Heart attack*`==<br>==`myocardial infarct*`==<br>`MI`<br>`AMI`<br>==`heart infarct`*== | Problem text word search |
-| 2   | myocardial infarction                                                                                                                                                                                                                          | Problem controlled vocabulary search                         |
-| 3   | `aspirin`<br>`acetylsalicylic acid`<br>`acetyl salicylic acid`<br>`ASA`                                                                                                                                                                                                                                               | Intervention text word search                         |
-| 4   | aspirin                                                                                                                                                                                                                                               | Intervention controlled vocabulary search                         |
-| 5   |                                                                                                                                                                                                                                                | Bundle problem search results                         |
-| 6   |                                                                                                                                                                                                                                                | Bundle Intervention search results                         |
-| 7   |                                                                                                                                                                                                                                                | Find overlap between Problem and Intervention                         |
+| #   | Terms                                                                                     | Step                                          |
+| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 1   | ==`Heart attack*`==<br>==`myocardial infarct*`==<br>`MI`<br>`AMI`<br>==`heart infarct`*== | Problem text word search                      |
+| 2   | myocardial infarction                                                                     | Problem controlled vocabulary search          |
+| 3   | `aspirin`<br>`acetylsalicylic acid`<br>`acetyl salicylic acid`<br>`ASA`                   | Intervention text word search                 |
+| 4   | aspirin                                                                                   | Intervention controlled vocabulary search     |
+| 5   |                                                                                           | Bundle problem search results                 |
+| 6   |                                                                                           | Bundle Intervention search results            |
+| 7   |                                                                                           | Find overlap between Problem and Intervention |
 
 6. Now we want to connect similar terrms using the OR operator
 
