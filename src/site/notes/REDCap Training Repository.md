@@ -8,7 +8,7 @@
 
 I thought it might be more efficient to start to compile them here in case others after me want a one-stop-shop to free online resources. This is a work-in-progress and I am by no means an expert, but I will update this page with my findings in the hope that someone else will be able to save themselves some time and avoid having to dig around the web.
 
-There wasn't a particular order that I utilized these resources, I looked through them to answer questions as they came up during survey creation. I think the ITHS REDCap Training Series is a good starting point for learners with some programming experience. If you are completely new, then the Coursera class could be a good ramp into the more advanced concepts. 
+There wasn't a particular order that I utilized these resources, I looked through them to answer questions as they came up during survey creation. I think the ITHS REDCap Training Series is a good starting point for learners with some programming experience. If you are completely new, then the Coursera class could be a good ramp into the more advanced concepts or this [introduction video](https://www.youtube.com/watch?v=08GJAteTFcg). 
 
 For answering specific questions about advanced features I frequently used YouTube to find more information about these features. 
 
@@ -43,3 +43,29 @@ These are some YouTube channels that helped me answer more advanced questions
 		- [Beginners ](https://www.youtube.com/watch?v=3GZM1U_LB3g)
 		- [Intermediate learners](https://www.youtube.com/watch?v=clyVnigkhpM)
 		- [Advanced learners](https://www.youtube.com/watch?v=zftXvMp34gA)
+- [REDCap for VCU](https://www.youtube.com/@redcapforvcu/videos)
+	- Bite sized videos covering advanced concepts
+	- Was a useful channel when trying to answer specific questions in a short period of time
+- [Research Informatics](https://www.youtube.com/@researchinformatics1635/videos)
+	- Great Introduction[ lecture](https://www.youtube.com/watch?v=08GJAteTFcg)
+	- Few videos but all very user friendly and engaging
+
+
+### Useful Concepts & Tools 
+The most challenging aspect of REDCap in my case was learning about new tools and features, to truly get the most value I feel that learning about these is essential.
+Some of these have individual videos for each one, if I have time I want to make separate page for each concept with specific videos and material for each one (because a whole article could be written on each one) and demos of how it can be useful. 
+Just know for now that it is important to consider if these are things that could make your project better, because when I started I didn't even realize some of these could be done
+- Branching logic (conditional logic)
+- Smart tags
+- Action tags
+	- Inline tag to display PDF or Pictures to participants
+- Piping
+- Automated Survey alerts & Invitations
+- Data quality assessment tool (sidebar on left)
+- API Keys
+- Report building
+- Data dictionary export/import
+- Survey Queue
+- Survey color customization
+- Repeating Instruments (This was the aspect that gave me the most trouble)
+- Longitudinal instruments (not the same as repeating, although not mutually exclusive)

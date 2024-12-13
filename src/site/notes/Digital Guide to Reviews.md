@@ -14,4 +14,4 @@ Feel free to browse and give me feedback on all aspects of realizing reviews and
 
 - [[Systematic Search Workshop\|Guide]] to Comprehensive Searches
 - [[ALL.CAN/Home/Guides/Toolbox for Comprehensive Searches\|Toolbox for Comprehensive Searches]]
-- [[RedCap Training Repository\|RedCap Training Repository]]
+- [[REDCap Training Repository\|REDCap Training Repository]]
