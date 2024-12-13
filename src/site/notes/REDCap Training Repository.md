@@ -8,7 +8,7 @@
 
 I thought it might be more efficient to start to compile them here in case others after me want a one-stop-shop to free online resources. This is a work-in-progress and I am by no means an expert, but I will update this page with my findings in the hope that someone else will be able to save themselves some time and avoid having to dig around the web.
 
-There wasn't a particular order that I utilized these resources, I looked through them to answer questions as they came up during survey creation. I think the ITHS REDCap Training Series is a good starting point for learners with some programming experience. If you are completely new, then the Coursera class could be a good ramp into the more advanced concepts or this [introduction video](https://www.youtube.com/watch?v=08GJAteTFcg). 
+There wasn't a particular order that I utilized these resources, I looked through them to answer questions as they came up during survey creation. I think the ITHS REDCap Training Series is a good starting point for learners with some programming experience. If you are completely new, then the [Coursera class](https://www.coursera.org/learn/clinical-data-management#modules) could be a good ramp into the more advanced concepts or this [introduction video](https://www.youtube.com/watch?v=08GJAteTFcg). 
 
 For answering specific questions about advanced features I frequently used YouTube to find more information about these features. 
 
