@@ -38,7 +38,7 @@ These are some free online resources I was able to find that helped me get start
 These are some YouTube channels that helped me answer more advanced questions 
 
 - [ UCD REDCap](https://www.youtube.com/@ucdredcap5650/videos)
-	- Nice channel with varied videos, a bit outdated and not as updated as I woudl like, but the videos are friendly, bite sized pieces of information covering the most important aspects of REDCap and some advanced features
+	- Nice channel with varied videos, a bit outdated and not as updated as I would like, but the videos are friendly, bite sized pieces of information covering the most important aspects of REDCap and some advanced features
 
 - [UArizona Health Sciences REDCap](https://www.youtube.com/@cb2redcap)
 	- This channel is my go-to resource nowadays, frequently updated, and they cover a vast array of topics. 
@@ -59,7 +59,7 @@ These are some YouTube channels that helped me answer more advanced questions
 
 ### Useful Concepts & Tools 
 The most challenging aspect of REDCap in my case was learning about new tools and features, to truly get the most value I feel that learning about these is essential.
-Some of these have individual videos for each one, if I have time I want to make separate page for each concept with specific videos and material for each one (because a whole article could be written on each one) and demos of how it can be useful. 
+Some of these have individual videos for each one, if I have time I want to make a separate page for each concept with specific videos and material for each one (because a whole article could be written on each one) and demos of how it can be useful. 
 Just know for now that it is important to consider if these are things that could make your project better, because when I started I didn't even realize some of these could be done
 - Branching logic (conditional logic)
 - Smart tags
